@@ -1,0 +1,28 @@
+# Java/Spring Boot
+oauthspring/build/
+oauthspring/.gradle/
+oauthspring/out/
+*.jar
+*.war
+*.ear
+*.class
+
+# Node.js/Vue
+oauthvue/node_modules/
+oauthvue/dist/
+oauthvue/.tmp/
+oauthvue/.cache/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

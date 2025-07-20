@@ -1,0 +1,20 @@
+# 공통 IDE 설정 (프로젝트별로 이미 있지만 통합 관리)
+.vscode/
+.idea/
+
+# 공통 OS 파일
+.DS_Store
+Thumbs.db
+
+# 공통 로그 파일
+*.log
+
+# 루트 레벨 임시 파일
+temp/
+tmp/
+*.tmp
+
+# 환경 설정 파일 (루트 레벨)
+.env
+.env.local
+.env.production
